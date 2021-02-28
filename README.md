@@ -14,4 +14,4 @@
 - PHP
 
 # HackVerse 2021 Devfolio Link
-https://devfolio.co/submissions/etudient-corner-634f
+https://devfolio.co/submissions/etudient-corner-d2cf
